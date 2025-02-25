@@ -14,11 +14,9 @@ A modern and responsive e-commerce platform for oversized T-shirts, built using 
 ## 🏗️ Tech Stack
 
 - **Frontend:** React.js, React Router, Tailwind CSS (or any styling framework used)
-- **State Management:** Context API / Redux (if used)
-- **Backend:** (Mention if any API or backend service is used)
-- **Database:** (Mention if applicable)
+- **Backend:** Express.Js
+- **Database:**MongoDB
 
-## 📂 Project Structure
 
 
 ## create .env file
